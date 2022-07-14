@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edudfrty;
+- 👋 Hi, I’m @Efrnds;
 - 👀 I’m interested in acquiring knowledge on anything that involves technology;
 - 🌱 I’m currently learning HTML/CSS and JavaScript;
 - 💞️ I’m looking to collaborate on projects that involves any of those languages im currently learning;
