@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://www.efrnds.me]
+- 👨‍💻 All of my projects are available at <a href="https://efrnds.me" target="_blank" rel="noreferrer">efrnds.me</a>
 
 - 📫 How to reach me **contato.efrnds@outlook.com**
 
