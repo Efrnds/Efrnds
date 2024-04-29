@@ -4,16 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efrnds&label=Profile%20views&color=04446c&style=flat" alt="efrnds" /> </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=efrnds&theme=dark" />
 
-- 🔭 I’m currently working on **Sakuraverse**
+- 🔭 I’m currently working on **PatrimonioTexsa**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Postgre**
 
 - 👨‍💻 All of my projects are available at <a href="https://efrnds.me" target="_blank" rel="noreferrer">efrnds.me</a>
 
 - 📫 How to reach me **contato.efrnds@outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_efrnds_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_efrnds_" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/_efrnds_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_efrnds_" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/edudfrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edudfrs" height="30" width="40" /></a>
 <a href="https://instagram.com/vulpessz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vulpessz_" height="30" width="40" /></a>
 </p>
