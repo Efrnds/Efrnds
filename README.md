@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Postgre**
 
-- 👨‍💻 All of my projects are available at <a href="https://efrnds.me" target="_blank" rel="noreferrer">efrnds.me</a>
+<!--- - 👨‍💻 All of my projects are available at <a href="https://efrnds.me" target="_blank" rel="noreferrer">efrnds.me</a> --->
 
 - 📫 How to reach me **contato.efrnds@outlook.com**
 <h3 align="left">Connect with me:</h3>
