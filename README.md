@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efrnds&label=Profile%20views&color=04446c&style=flat" alt="efrnds" /> </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=efrnds&theme=dark" />
 
-- 🔭 I’m currently working on **PatrimonioTexsa**
+- 🔭 I’m currently working on **Align-vf**
 
-- 🌱 I’m currently learning **Postgre**
+- 🌱 I’m currently learning **ThreeJS**
 
 <!--- - 👨‍💻 All of my projects are available at <a href="https://efrnds.me" target="_blank" rel="noreferrer">efrnds.me</a> --->
 
